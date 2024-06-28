@@ -1,4 +1,4 @@
-Hi, I'm Souvik Khan! 👋 ![](https://komarev.com/ghpvc/?username=souvik97381)
+## Hi, I'm Souvik Khan! 👋 👦
 
 
 A Full-Stack Developer, have extensive experience in latest technologies. Along with code quality the best practices I follow is taking ownership of the task.
@@ -17,6 +17,15 @@ Presently learning Web3
 - System design
 - DSA
 - Rust
+
+
+## 📈 GitHub Stats
+
+![Souvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=isouvikkhan&theme=tokyonight&show_icons=true&hide=["issues"])
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isouvikkhan&theme=tokyonight&layout=compact)
+
+
+ ![](https://komarev.com/ghpvc/?username=souvik97381)
 
 
 ## 📫 Get in touch
