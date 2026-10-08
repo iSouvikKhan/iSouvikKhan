@@ -43,7 +43,7 @@ I'm a backend engineer with nearly **5 years** of experience building scalable *
 | [**DocuMind**](https://github.com/iSouvikKhan/documind-rag) | RAG document Q&A with hybrid retrieval, citations and evaluation | Python, FastAPI, LangChain, pgvector, React |
 | [**ChurnSense**](https://github.com/iSouvikKhan/churnsense-ml-api) | ML churn-prediction model served as an API | Python, scikit-learn, FastAPI, Docker |
 | [**PayTm**](https://github.com/iSouvikKhan/PayTm) | Digital wallet with transactional transfers | React, Express, MongoDB |
-| [**Medium**](https://github.com/iSouvikKhan/blog) | Blogging platform on Cloudflare Workers | React, Express, PostgreSQL, Prisma |
+| [**Medium**](https://github.com/iSouvikKhan/Medium) | Blogging platform on Cloudflare Workers | React, Express, PostgreSQL, Prisma |
 
 ---
 
