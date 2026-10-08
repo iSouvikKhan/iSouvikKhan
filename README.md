@@ -1,6 +1,3 @@
-<!-- Profile README for github.com/iSouvikKhan -->
-<!-- Keep this file in a public repo named exactly "iSouvikKhan", with the banner at assets/banner.png -->
-
 <p align="center">
   <img src="./assets/banner.png" alt="Souvik Khan: Java Backend & GenAI Engineer" width="100%"/>
 </p>
