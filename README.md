@@ -1,10 +1,10 @@
 ## Hi, I'm Souvik Khan! 👋 👦
 
 
-A Full-Stack Developer, have extensive experience in latest technologies. Along with code quality the best practices I follow is taking ownership of the task.
+A Full-Stack Developer with extensive experience in the latest technologies. Along with code quality, one of the best practices I follow is taking ownership of the task.
 Adaptable to different technologies.
 <br/>
-Presently learning Web3
+Presently learning Web3.
 
 
 ## 🛠️ Tech Stacks
