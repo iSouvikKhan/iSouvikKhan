@@ -42,8 +42,8 @@ I'm a backend engineer with nearly **5 years** of experience building scalable *
 | [**SupportPilot**](https://github.com/iSouvikKhan/supportpilot-spring-ai) | AI customer-support agent with RAG and tool calling | Java 21, Spring AI, pgvector, Angular |
 | [**DocuMind**](https://github.com/iSouvikKhan/documind-rag) | RAG document Q&A with hybrid retrieval, citations and evaluation | Python, FastAPI, LangChain, pgvector, React |
 | [**ChurnSense**](https://github.com/iSouvikKhan/churnsense-ml-api) | ML churn-prediction model served as an API | Python, scikit-learn, FastAPI, Docker |
-| [**PayTm Clone**](https://github.com/iSouvikKhan/PayTm) | Digital wallet with transactional transfers | React, Express, MongoDB |
-| [**Medium Clone**](https://github.com/iSouvikKhan/blog) | Blogging platform on Cloudflare Workers | React, Express, PostgreSQL, Prisma |
+| [**PayTm**](https://github.com/iSouvikKhan/PayTm) | Digital wallet with transactional transfers | React, Express, MongoDB |
+| [**Medium**](https://github.com/iSouvikKhan/blog) | Blogging platform on Cloudflare Workers | React, Express, PostgreSQL, Prisma |
 
 ---
 
