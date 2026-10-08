@@ -98,8 +98,8 @@ An AI-assisted **Master Data Management** platform that turns dirty CSV datasets
 | [**SupportPilot**](https://github.com/iSouvikKhan/supportpilot-spring-ai) | AI customer-support agent with RAG, tool calling and human approval for sensitive actions | Java 21 · Spring AI · pgvector · Angular | 🚧 In progress |
 | [**DocuMind**](https://github.com/iSouvikKhan/documind-rag) | RAG document Q&A with hybrid retrieval, re-ranking, citations and an evaluation set | Python · FastAPI · LangChain · pgvector · React | 🚧 In progress |
 | [**ChurnSense**](https://github.com/iSouvikKhan/churnsense-ml-api) | Churn-prediction ML model served as a versioned API | Python · scikit-learn · FastAPI · Docker | 🚧 In progress |
-| [**PayTm**](https://github.com/iSouvikKhan/PayTm) | Digital wallet with consistent transfers using MongoDB transactions | React · Express · MongoDB · Tailwind | ✅ Live |
-| [**Medium**](https://github.com/iSouvikKhan/Medium) | Blogging platform deployed on Cloudflare Workers | React · Express · PostgreSQL · Prisma | ✅ Live |
+| [**PayTm**](https://github.com/iSouvikKhan/PayTm) | Digital wallet with consistent transfers using MongoDB transactions | React · Express · MongoDB · Tailwind | 🚧 In progress |
+| [**Medium**](https://github.com/iSouvikKhan/Medium) | Blogging platform deployed on Cloudflare Workers | React · Express · PostgreSQL · Prisma | 🚧 In progress |
 
 ---
 
